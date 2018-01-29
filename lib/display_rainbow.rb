@@ -5,4 +5,4 @@ def display_rainbow
 end
 
 
-print_display_rainbow
+display_rainbow
