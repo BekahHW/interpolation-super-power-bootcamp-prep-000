@@ -4,5 +4,5 @@ def display_rainbow(color)
   puts colors.join(", ")
 end
 
-
+color = 
 
