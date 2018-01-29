@@ -4,6 +4,6 @@ def display_rainbow(color)
   puts colors.join(", ")
 end
 
-do color = red, green
+do color = R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet
 
 print_display_rainbow(color)
