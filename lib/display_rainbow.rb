@@ -6,4 +6,4 @@ end
 
  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-print_display_rainbow(colors)
+print_display_rainbow
