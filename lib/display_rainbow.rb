@@ -6,4 +6,4 @@ end
 
 color = red, green
 
-print_display_rainbow
+print_display_rainbow(color)
