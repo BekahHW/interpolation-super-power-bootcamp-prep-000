@@ -6,4 +6,3 @@ end
 
 
 
-print_display_rainbow(color)
