@@ -5,3 +5,4 @@ def display_rainbow(color)
 end
 
 
+print_display_rainbow
